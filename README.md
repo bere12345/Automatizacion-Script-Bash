@@ -15,7 +15,7 @@ Dar permisos antes de ejecutar el script
 chmod +x automate.sh
 
 Ejecutar el script
-./automate.sh
+./SOfinal.sh
 
 Opciones del Menú
 El script presenta un menú interactivo con las siguientes opciones:
