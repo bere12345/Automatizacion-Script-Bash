@@ -12,7 +12,11 @@ git clone https://github.com/tu-usuario/Automatizacion-Script-Bash.git
 cd Automatizacion-Script-Bash*
 
 Dar permisos antes de ejecutar el script
-chmod +x automate.sh
+cd ~/Escritorio (lugar donde esta el script)
+
+chmod +x archivo.sh (para que el script sea ejecutable)
+
+sudo ./nombre_del_archivo.txt (ejecuta el script como administrador)
 
 Ejecutar el script
 ./SOfinal.sh
